@@ -1,3 +1,16 @@
+/*******************************************************'
+ * 
+ * Sketch to "measure" electricity ussage, by monitoring the
+ * blinking LED on the utility meter.
+ * 
+ * Mostly taken from somewhere on the net (don't remember where)
+ * but adjusted to my likings.
+ * 
+ * Partly author : Thomas Mørch
+ * repository    ; https://github.com/tbowmo/energyPulseCounter
+ * 
+ */
+
 //Number of pulses, used to measure energy.
 
 long pulseCount = 0;   
